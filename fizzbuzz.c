@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-
+	printf("FizzBuzz Test\n");
 	for(int i=0; i<101;i++){
 		if(i%15 == 0){
 			printf("FizzBuzz\n");
